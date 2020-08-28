@@ -22,6 +22,7 @@
 <p>Responsive AppBar</p>
 <p>Authentication/Register Form (component)</p>
 <p>Contact Form (component)</p>
+<p>About Me (component)</p>
 
 </div>
 
