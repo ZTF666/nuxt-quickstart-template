@@ -6,6 +6,7 @@
       app
       color="primary secondary--text"
       class="hidden-xs-only"
+      dense
     >
       <v-img
         alt="Vuetify Logo"
@@ -18,14 +19,25 @@
       <v-toolbar-title v-text="title" />
 
       <v-btn text>
-        <v-switch v-model="goDark" color="dark" :label="icon" class="mt-5"></v-switch>
+        <v-switch
+          v-model="goDark"
+          color="dark"
+          :label="icon"
+          class="mt-5"
+        ></v-switch>
       </v-btn>
       <v-spacer />
       <v-btn text class="secondary--text" nuxt to="/">Home</v-btn>
       <v-btn text class="secondary--text mr-5" nuxt to="/inspire">About</v-btn>
     </v-app-bar>
 
-    <v-app-bar :clipped-left="clipped" fixed app color="primary" class="hidden-sm-and-up">
+    <v-app-bar
+      :clipped-left="clipped"
+      fixed
+      app
+      color="primary"
+      class="hidden-sm-and-up"
+    >
       <v-img
         alt="Vuetify Logo"
         class="shrink mr-2 img"
@@ -47,12 +59,19 @@
           <!-- <v-list-item> -->
           <v-list-item-content>
             <v-btn text>
-              <v-switch v-model="goDark" color="secondary" :label="icon" class="mb-5"></v-switch>
+              <v-switch
+                v-model="goDark"
+                color="secondary"
+                :label="icon"
+                class="mb-5"
+              ></v-switch>
             </v-btn>
 
             <!-- <v-spacer></v-spacer> -->
             <v-btn text class="secondary--text" nuxt to="/">Home</v-btn>
-            <v-btn text class="secondary--text mr-5" nuxt to="/inspire">About</v-btn>
+            <v-btn text class="secondary--text mr-5" nuxt to="/inspire"
+              >About</v-btn
+            >
           </v-list-item-content>
 
           <!-- </v-list-item> -->

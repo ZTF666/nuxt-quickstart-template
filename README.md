@@ -10,6 +10,8 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FV%2Fvuetify-logo-3BCF73C928-seeklogo.com.png&f=1&nofb=1"  width='40' height='40'>
 <h6><strong>A</strong>xios</h6>
 
+[Vue Pure LightBox](https://github.com/DCzajkowski/vue-pure-lightbox)
+
 <p>Custom Color Dark/Light Mode</p>
 <p>Responsive AppBar</p>
 
