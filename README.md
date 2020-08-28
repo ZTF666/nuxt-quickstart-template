@@ -62,3 +62,14 @@ $ npm run generate
 </table>
 
 </div>
+
+## License
+
+<div align="center">
+
+released under the [MIT](LICENSE) License.
+
+<br><br>
+<strong><p>Made with 🖤 by 👽 | 2020 | ZTF666 - N.EA</p> </strong>
+
+</div>
