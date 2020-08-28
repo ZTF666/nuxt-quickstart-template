@@ -11,7 +11,7 @@
 <h6><strong>A</strong>xios</h6>
 
 <p>Custom Color Dark/Light Mode</p>
-<p>Responsibe AppBar</p>
+<p>Responsive AppBar</p>
 
 </div>
 
