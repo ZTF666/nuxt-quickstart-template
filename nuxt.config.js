@@ -86,10 +86,13 @@ export default {
           warning: colors.amber.base,
           error: colors.deepOrange.accent4,
           // custom
-          primary: '#293556',
-          secondary: '#DD4470',
+          // primary: '#293556',
+          primary: '#000000',
+          // secondary: '#DD4470',
+          secondary: '#0afc2e',
           success: '#39AEA9',
-          accent: '#FE72A9',
+          // accent: '#FE72A9',
+          accent: '#0e7f2c',
           pinkish: '#FF7BBF',
         },
         light: {

@@ -17,6 +17,8 @@
 
 <p>Custom Color Dark/Light Mode</p>
 <p>Responsive AppBar</p>
+<p>Authentication/Register Form (component)</p>
+<p>Contact Form (component)</p>
 
 </div>
 
