@@ -29,4 +29,19 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Contact
+
+```
+you can contact me at ZTF666@protonmail.ch or via my portfolio
+
+```
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><a href="https://ztfportfolio.web.app/" target='_blank'><img src="https://avatars1.githubusercontent.com/u/32502988?v=4" width="100px;" alt=""/><br /><sub><b>ZTF666</b></sub></a></td>
+  </tr>
+</table>
+
+</div>
