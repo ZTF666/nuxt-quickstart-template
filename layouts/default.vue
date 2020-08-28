@@ -99,7 +99,7 @@ export default {
     return {
       clipped: false,
       fixed: false,
-      title: 'Vuetify.js',
+      title: 'ZTF Starter Template',
       icon: '🌚',
       goDark: true,
       BgCol: 'bg',
