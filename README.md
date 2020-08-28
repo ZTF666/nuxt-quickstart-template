@@ -11,6 +11,8 @@
 <h6><strong>A</strong>xios</h6>
 
 [Vue Pure LightBox](https://github.com/DCzajkowski/vue-pure-lightbox)
+<br>
+
 [Vue Particles](https://vue-particles.netlify.app/)
 
 <p>Custom Color Dark/Light Mode</p>
