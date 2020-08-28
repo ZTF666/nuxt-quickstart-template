@@ -1,7 +1,7 @@
 # quick-start-template
 
 <div align="center">
-<p>This is a quickstrat template for my small projects .</p>
+<p>This is a quickstart NUXT template for my small projects .</p>
 <p>The app has the following included for my own use :</p>
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -41,13 +41,8 @@ $ npm run generate
 
 ## Contact
 
-```
-you can contact me at ZTF666@protonmail.ch or via my portfolio
-
-```
-
 <div align="center">
-
+<p>you can contact me at ZTF666@protonmail.ch or via my portfolio</p>
 <table>
   <tr>
     <td align="center"><a href="https://ztfportfolio.web.app/" target='_blank'><img src="https://avatars1.githubusercontent.com/u/32502988?v=4" width="100px;" alt=""/><br /><sub><b>ZTF666</b></sub></a></td>
