@@ -30,6 +30,8 @@
 
 <div align="center">
 <img src="starter-template.gif" alt="example image gif">
+<br>
+<p>Yeah i'm not good with colors lol.</p>
 </div>
 
 ## Build Setup
