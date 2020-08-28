@@ -97,7 +97,8 @@ export default {
         },
         light: {
           primary: '#3f51b5',
-          secondary: '#b0bec5',
+          // secondary: '#b0bec5',
+          secondary: '#35292d',
           accent: '#8c9eff',
           error: '#b71c1c',
           // primary: '#313866',

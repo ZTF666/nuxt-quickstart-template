@@ -13,7 +13,8 @@
     "firebase": "^7.19.1",
     "nuxt": "^2.14.0",
     "vue-particles": "^1.0.9",
-    "vue-pure-lightbox": "^3.1.1"
+    "vue-pure-lightbox": "^3.1.1",
+    "vue-typical": "^1.4.0"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.2",

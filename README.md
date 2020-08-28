@@ -14,6 +14,9 @@
 <br>
 
 [Vue Particles](https://vue-particles.netlify.app/)
+<br>
+
+[Vue Typical](https://turkyden.github.io/vue-typical/)
 
 <p>Custom Color Dark/Light Mode</p>
 <p>Responsive AppBar</p>
