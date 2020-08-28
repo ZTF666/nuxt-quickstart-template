@@ -26,6 +26,12 @@
 
 </div>
 
+## Example :
+
+<div align="center">
+<img src="starter-template.gif" alt="example image gif">
+</div>
+
 ## Build Setup
 
 ```bash
