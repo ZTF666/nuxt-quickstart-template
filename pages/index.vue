@@ -1,11 +1,6 @@
 <template>
   <v-layout column justify-center align-center>
-    <div class="d-flex flex-wrap justify-center align-start">
-      <!-- <v-flex xs12 sm8 md6> -->
-      <!-- THINGS GO HERE -->
-
-      <!-- </v-flex> -->
-    </div>
+    <div class="d-flex flex-wrap justify-center align-start"></div>
   </v-layout>
 </template>
 

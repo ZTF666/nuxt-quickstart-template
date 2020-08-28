@@ -11,6 +11,7 @@
 <h6><strong>A</strong>xios</h6>
 
 [Vue Pure LightBox](https://github.com/DCzajkowski/vue-pure-lightbox)
+[Vue Particles](https://vue-particles.netlify.app/)
 
 <p>Custom Color Dark/Light Mode</p>
 <p>Responsive AppBar</p>

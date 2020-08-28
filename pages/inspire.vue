@@ -1,15 +1,19 @@
 <template>
-  <v-layout>
-    <v-flex class="text-center">
-      <img src="/v.png" alt="Vuetify.js" class="mb-5" />
-      <blockquote class="blockquote">
-        &#8220;This is a quickstart tempalte.&#8221;
-        <footer>
-          <small>
-            <em>&mdash;ZTF</em>
-          </small>
-        </footer>
-      </blockquote>
-    </v-flex>
-  </v-layout>
+  <div></div>
 </template>
+<style scoped>
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.container {
+  position: relative;
+}
+.id {
+  height: 100vh;
+}
+</style>
