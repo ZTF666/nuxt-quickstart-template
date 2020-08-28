@@ -66,7 +66,10 @@
     </v-main>
 
     <v-footer :absolute="!fixed" app color="primary secondary--text">
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>
+        &copy; {{ new Date().getFullYear() }} -
+        <strong>ZTF</strong>
+      </span>
     </v-footer>
   </v-app>
 </template>
