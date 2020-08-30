@@ -23,6 +23,7 @@
 <p>Authentication/Register Form (component)</p>
 <p>Contact Form (component)</p>
 <p>About Me (component)</p>
+<p>Image Gallery (component)</p>
 
 </div>
 
