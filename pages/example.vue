@@ -1,5 +1,8 @@
 <template>
   <div>
+    <center>
+      <h1>Examples</h1>
+    </center>
     <div class="id">
       <div class="container">
         <no-ssr>
@@ -24,8 +27,17 @@
         </no-ssr>
       </div>
     </div>
+    <center>
+      <h1>Authentication component</h1>
+    </center>
     <auth class="id" />
+    <center>
+      <h1>Contact Component</h1>
+    </center>
     <contact class="id" />
+    <center>
+      <h1>Gallery Component</h1>
+    </center>
     <gallery class />
   </div>
 </template>
