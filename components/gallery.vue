@@ -1,17 +1,17 @@
 <template>
-  <v-layout column justify-center align-center>
-    <div class="d-flex flex-wrap justify-center align-start">
-      <div v-for="n in 10" :key="n" class="ma-5">
-        <v-card class="ma-5" max-width="350" max-height="500">
-          <center>
-            <v-card-text>
-              <h3>TITLE</h3>
-            </v-card-text>
-          </center>
-          <VuePureLightbox
-            thumbnail="https://ztfportfolio.web.app/_nuxt/img/me.1fafa89.png"
-            class="gg"
-            :images="[
+  <!-- <v-layout column justify-center align-center> -->
+  <div class="d-flex flex-wrap justify-center align-start">
+    <div v-for="n in 4" :key="n" class="ma-5">
+      <v-card class="ma-5" max-width="350" max-height="500">
+        <center>
+          <v-card-text>
+            <h3>Click Picture</h3>
+          </v-card-text>
+        </center>
+        <VuePureLightbox
+          thumbnail="https://ztfportfolio.web.app/_nuxt/img/me.1fafa89.png"
+          class="gg"
+          :images="[
               {
                 link: 'https://ztfportfolio.web.app/_nuxt/img/me.1fafa89.png',
                 alt: 'Cat 2',
@@ -22,15 +22,15 @@
                 alt: 'Cat 2',
               },
             ]"
-          >
-            <template v-slot:content="{ url: { link } }">
-              <img :src="link" />
-            </template>
-          </VuePureLightbox>
-        </v-card>
-      </div>
+        >
+          <template v-slot:content="{ url: { link } }">
+            <img :src="link" />
+          </template>
+        </VuePureLightbox>
+      </v-card>
     </div>
-  </v-layout>
+  </div>
+  <!-- </v-layout> -->
 </template>
 
 <script>

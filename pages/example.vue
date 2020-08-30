@@ -26,16 +26,19 @@
     </div>
     <auth class="id" />
     <contact class="id" />
+    <gallery class />
   </div>
 </template>
 
 <script>
 import auth from '../components/Authentication'
 import contact from '../components/Contact'
+import gallery from '../components/gallery'
 export default {
   components: {
     auth,
     contact,
+    gallery,
   },
 }
 </script>
